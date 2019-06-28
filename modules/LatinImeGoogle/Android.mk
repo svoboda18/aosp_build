@@ -5,7 +5,7 @@ LOCAL_MODULE := LatinImeGoogle
 LOCAL_PACKAGE_NAME := com.google.android.inputmethod.latin
 
 GAPPS_LOCAL_OVERRIDES_MIN_VARIANT :=
-GAPPS_LOCAL_OVERRIDES_PACKAGES := LatinIME
+GAPPS_LOCAL_OVERRIDES_PACKAGES := MtkLatinIME LatinIME
 
 LOCAL_REQUIRED_MODULES := libjni_latinimegoogle
 
